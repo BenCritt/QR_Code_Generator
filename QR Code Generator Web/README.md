@@ -7,6 +7,7 @@ The dependencies for this web app are included in the requirements.txt and runti
 The required libraries are:
 
   asgiref==3.7.2
+  
   colorama==0.4.6
   dj-database-url==2.1.0
   Django==4.2.5
